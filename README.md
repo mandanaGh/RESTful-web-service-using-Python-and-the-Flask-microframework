@@ -6,6 +6,11 @@ HTTP protocol, and possibly as a result of that the state of the affected resour
 we need to select the resources that will be exposed by this service.
 The key/value resource will use HTTP methods as follows:
 
+<p align = "center">
+  <img src = "https://github.com/mandanaGh/RESTful-web-service-using-Python-and-the-Flask-microframework/blob/main/images/RESTful_web_ervice.jpg" width = 700>
+  </p>
+
+
 I implemented a simple web application, in a file called app.py. The client of
 our web service will be asking the service to add and retrieve key/value pairs, so clearly we need to
 have a way to store key/value pairs. The obvious way to do that is to build a small database, but for
