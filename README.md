@@ -7,7 +7,7 @@ we need to select the resources that will be exposed by this service.
 The key/value resource will use HTTP methods as follows:
 
 <p align = "center">
-  <img src = "https://github.com/mandanaGh/RESTful-web-service-using-Python-and-the-Flask-microframework/blob/main/images/RESTful_web_ervice.jpg" width = 700>
+  <img src = "https://github.com/mandanaGh/RESTful-web-service-using-Python-and-the-Flask-microframework/blob/main/images/RESTful_web_ervice.jpg" width = 800>
   </p>
 
 
